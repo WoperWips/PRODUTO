@@ -1,9 +1,14 @@
-Título do projeto Um parágrafo da descrição do projeto vai aqui
+Produto:Nesse reprositorio foi feito com o intuito de auxiliar logica de progamação orientada a Progamação Orientenda a Objeto.
 
-🚀 Começando Pode colocar o enunciado para o desenvolvimento do projeto
+🚀 Começando
 
-📋 Pré-requisitos De que coisas você precisa para instalar o software e como instalá-lo?
 
-Dar exemplos 🔧 Instalação Explicação de como deve ser utilizado o projeto 🛠️ Construído com Ferramentas utilizadas e bibliotecas
+📋 Pré-requisitos Visual Studio + extensões do Java
 
-IDE Eclipse 📌 Versão Versão 1.0 caso seja atualizado manter a descrição inicial e inserir uma nova linha com descrição da atualização. Versão 1.1 - Refatoração data 09/09/24 ✒️ Autores Nome do desenvolvedor - Trabalho Inicial - Nome da atividade
+🔧 Instalação Cada programa pode ser executado individualmente. Basta compilar o código em seu ambiente Java e executar o arquivo correspondente. Alguns programas utilizam a classe Scanner para permitir a entrada de dados pelo usuário.
+
+🛠️ Construído com Ferramentas utilizadas e bibliotecas Visual Studio
+
+📌 Versão Versão 1.0
+
+✒️ Autores Herick Marlon - Trabalho Inicial - Produto
