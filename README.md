@@ -1,4 +1,4 @@
-Produto:Nesse reprositorio foi feito com o intuito de auxiliar logica de progamação orientada a Progamação Orientenda a Objeto.
+Produto:Nesse reprositorio foi feito com o intuito de auxiliar logica de progamação orientada a objeto.
 
 🚀 Começando
 
